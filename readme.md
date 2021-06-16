@@ -1,16 +1,8 @@
-[![CircleCI branch](https://img.shields.io/circleci/project/github/duxianwei520/react/master.svg?style=flat-square)](https://circleci.com/gh/duxianwei520/react)
-[![GitHub forks](https://img.shields.io/github/forks/duxianwei520/react.svg)](https://github.com/duxianwei520/react/network)
-[![GitHub stars](https://img.shields.io/github/stars/duxianwei520/react.svg)](https://github.com/duxianwei520/react/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/duxianwei520/react.svg)](https://github.com/duxianwei520/react/issues)
-[![GitHub license](https://img.shields.io/github/license/duxianwei520/react.svg)](https://github.com/duxianwei520/react/blob/master/LICENSE)
-[![Coverage Status](https://coveralls.io/repos/github/duxianwei520/react/badge.svg)](https://coveralls.io/github/duxianwei520/react)
-
 ## 项目技术栈
 
 node10.15.3 + react@16.12.0 + redux@3.7.2 + react-router@3.2.0 + webpack@4.41.2 + axios@0.19.0 + less@2.7.1 + antd@3.25.2
 
-## 交流
-QQ群：159697743
+
 
 ## 项目运行
 
@@ -54,24 +46,7 @@ npm run testing (测试环境的打包部署命令，可以根据具体需求自
 这些参数都可以根据实际情况进行调整，报错或者成功的提示信息放在msg里面返回。
 当前项目集成了完整的用户管理、角色管理、模块管理等基本的权限管理功能，小伙伴们一定要同时启动npm run mock才可以看到噢
 
-这个react的项目我有在跟nodejs的express框架配合做接口的开发，可以不靠后端输出数据库真实的数据，仓库地址在
 
-```
-https://github.com/duxianwei520/express
-
-```
-还有一个原生的nodejs版本的，仓库库地址是
-
-```
-https://github.com/duxianwei520/node
-
-```
-基本功能差不多，目前实现了注册登录以及获取用户信息等3个接口的真实api
-
-
-## 说明
-
->  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
 ### 大部分人项目启动不起来的原因，绝大部分的情况都是npm依赖包安装的时候有些依赖包没有下载完全，当前的demo肯定是可以跑起来的
 
@@ -99,6 +74,3 @@ login(){
 - [√] 实时的webpack包大小预览,方便优化
 - [√] draftjs编辑器
 
-
-## 交流
-想跟其他的使用react的小伙伴们交流的话，可以加入我创建的reactQQ群：159697743
